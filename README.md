@@ -1,4 +1,4 @@
-# Darkchess -test
+# Darkchess
 
 Chess with Fog of War. 
 
